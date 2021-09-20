@@ -1,6 +1,9 @@
 # test_app
 
-A new Flutter application.
+A new Flutter application. Latest apk is inside output folder
+
+#LoginDetails
+email: username , password: username
 
 ## Getting Started
 
